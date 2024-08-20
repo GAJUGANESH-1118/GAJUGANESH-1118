@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GAJU GANESH
-- 👀 I’m interested in Web developing, love to code.
+- 👀 I’m interested in Web development, love to code.
 - 🌱 I’m currently learning Web Technologies, full stack java.
 - 💞️ I’m looking to collaborate on Internships, projects, Startup Companies.
 - 📫 How to reach me ...
